@@ -1,0 +1,4 @@
+,Tarifa,Anio,Verano,Mes,Consumo,Precio,kwh,Minimo
+0,Tarifa 1,2021,,MARZO,Consumobasico,0.859,75,25
+1,Tarifa 1,2021,,MARZO,Consumointermedio,1.040,65,25
+2,Tarifa 1,2021,,MARZO,Consumoexcedente,3.042,,25

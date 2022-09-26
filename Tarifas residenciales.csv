@@ -1,0 +1,4 @@
+,Tarifa,Anio,Verano,Mes,Consumo,Precio,kwh,Minimo
+0,Tarifa 1,2020,,ABRIL,Consumobasico,0.837,75,25
+1,Tarifa 1,2020,,ABRIL,Consumointermedio,1.012,65,25
+2,Tarifa 1,2020,,ABRIL,Consumoexcedente,2.962,,25
